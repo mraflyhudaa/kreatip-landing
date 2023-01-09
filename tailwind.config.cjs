@@ -8,10 +8,12 @@ module.exports = {
       },
       margin: {
         13: '3.125rem' /* 50px */,
+        15: '3.75rem' /* 60px */,
       },
       padding: {
         13: '3.125rem' /* 50px */,
         19: '4.688rem' /* 75px */,
+        18: '4.375rem' /* 70px */,
       },
       gap: {
         35: '8.875rem' /* 142px */,
