@@ -1,7 +1,7 @@
 import Nestle from '../assets/companies/Nestle.svg';
 import Asana from '../assets/companies/Asana.svg';
 import CocaCola from '../assets/companies/cocacola.svg';
-import Allianz from '../assets/companies/allianz.svg';
+import Allianz from '../assets/companies/Allianz.svg';
 import Vorkasse from '../assets/companies/vorkasse.svg';
 
 const Companies = () => {
