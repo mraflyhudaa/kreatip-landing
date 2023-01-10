@@ -17,7 +17,7 @@ const Navbar = () => {
         ))}
       </div>
       <div className='flex'>
-        <button className='bg-[#502DD8] text-white my-auto py-[13px] px-8 text-base'>
+        <button className='bg-primary text-white my-auto py-[13px] px-8 text-base'>
           Get Started
         </button>
       </div>

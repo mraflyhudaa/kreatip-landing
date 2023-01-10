@@ -41,7 +41,7 @@ const Featured = () => {
             </div>
           </div>
           <div className='relative w-auto'>
-            <div className='absolute w-[250px] h-[147px] bg-[#502DD8] right-0 -z-10 rounded-tr-md'></div>
+            <div className='absolute w-[250px] h-[147px] bg-primary right-0 -z-10 rounded-tr-md'></div>
             <div className='absolute w-[100px] h-[93px] bg-[#C30195] bottom-0 -z-10 rounded-bl-md'></div>
             <img
               className='z-0 p-[15px]'
@@ -53,7 +53,7 @@ const Featured = () => {
 
         <div className='flex justify-between gap-6'>
           <div className='relative w-auto'>
-            <div className='absolute w-[250px] h-[147px] bg-[#502DD8] right-0 -z-10 rounded-tr-md'></div>
+            <div className='absolute w-[250px] h-[147px] bg-primary right-0 -z-10 rounded-tr-md'></div>
             <div className='absolute w-[100px] h-[93px] bg-[#A08678] bottom-0 -z-10 rounded-bl-md'></div>
             <img
               className='z-0 p-[15px]'
@@ -91,7 +91,7 @@ const Featured = () => {
             </div>
           </div>
           <div className='relative w-auto'>
-            <div className='absolute w-[250px] h-[147px] bg-[#502DD8] right-0 -z-10 rounded-tr-md'></div>
+            <div className='absolute w-[250px] h-[147px] bg-primary right-0 -z-10 rounded-tr-md'></div>
             <div className='absolute w-[100px] h-[93px] bg-[#29D28B] bottom-0 -z-10 rounded-bl-md'></div>
             <img
               className='z-0 p-[15px]'

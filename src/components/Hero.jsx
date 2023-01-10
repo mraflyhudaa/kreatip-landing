@@ -14,7 +14,7 @@ const Hero = () => {
             and you get at a cheap price. you can save time for marketing your
             business.
           </p>
-          <button className='text-white font-bold text-xl px-19 py-6 mt-10 bg-[#502DD8]'>
+          <button className='text-white font-bold text-xl px-19 py-6 mt-10 bg-primary'>
             Get Started
           </button>
         </div>

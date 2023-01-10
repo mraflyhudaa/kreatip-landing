@@ -71,7 +71,7 @@ const Testimonials = () => {
       <div className='flex flex-row justify-center gap-4 mt-14'>
         <div className='w-10 h-[6px] bg-[#0F1C39]'></div>
         <div className='w-10 h-[6px] bg-[#0F1C39]'></div>
-        <div className='w-10 h-[6px] bg-[#502DD8]'></div>
+        <div className='w-10 h-[6px] bg-primary'></div>
         <div className='w-10 h-[6px] bg-[#0F1C39]'></div>
         <div className='w-10 h-[6px] bg-[#0F1C39]'></div>
       </div>
