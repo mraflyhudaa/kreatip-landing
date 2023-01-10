@@ -1,4 +1,4 @@
-import Kreatip from '../assets/kreatip.svg';
+import Kreatip from '../assets/Kreatip.svg';
 import facebookIcon from '../assets/footer/facebook.svg';
 import instagramIcon from '../assets/footer/instagram.svg';
 import skypeIcon from '../assets/footer/skype.svg';
