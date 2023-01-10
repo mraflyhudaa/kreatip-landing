@@ -1,3 +1,4 @@
+import CallToAction from './components/CallToAction';
 import Companies from './components/Companies';
 import Featured from './components/Featured';
 import Hero from './components/Hero';
@@ -12,6 +13,7 @@ function App() {
       <Companies />
       <Featured />
       <Testimonials />
+      <CallToAction />
     </>
   );
 }
