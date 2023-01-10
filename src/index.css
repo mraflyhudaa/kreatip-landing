@@ -30,4 +30,38 @@
     filter: blur(40px);
     opacity: 0.4;
   }
+  .cta-circle1 {
+    z-index: 0;
+    position: absolute;
+    bottom: -50px;
+    left: -32px;
+    width: 235px;
+    height: 235px;
+    border-radius: 50%;
+    background: rgb(80, 45, 216);
+    background: linear-gradient(
+      202deg,
+      rgba(80, 45, 216, 1) 9%,
+      rgba(193, 22, 92, 1) 100%
+    );
+    filter: blur(40px);
+    opacity: 0.4;
+  }
+  .cta-circle2 {
+    z-index: 0;
+    position: absolute;
+    top: -14px;
+    right: -28px;
+    width: 167px;
+    height: 167px;
+    border-radius: 50%;
+    background: rgb(80, 45, 216);
+    background: linear-gradient(
+      197deg,
+      rgba(80, 45, 216, 1) 9%,
+      rgba(193, 22, 92, 1) 100%
+    );
+    filter: blur(40px);
+    opacity: 0.3;
+  }
 }
