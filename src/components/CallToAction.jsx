@@ -1,6 +1,6 @@
 const CallToAction = () => {
   return (
-    <div className='mt-64 relative overflow-hidden'>
+    <div className='lg:mt-64 md:mt-24 mt-14 relative overflow-hidden'>
       <div className='cta-circle1'></div>
       <div className='cta-circle2'></div>
       <div className='p-17 bg-[#09122B]'>
@@ -11,7 +11,7 @@ const CallToAction = () => {
             </h2>
           </div>
           <div className='mx-auto mb-15 mt-10  '>
-            <button className='py-6 bg-white px-18 text-[#3400FF] text-xl font-bold mx-auto z-10'>
+            <button className='md:py-6 py-3 bg-white md:px-18 px-9 text-[#3400FF] md:text-xl text-lg font-bold mx-auto z-10'>
               Get Started
             </button>
           </div>

@@ -6,22 +6,22 @@ const Testimonials = () => {
   return (
     <div className='mt-36'>
       <div className='flex flex-col mx-auto'>
-        <div className='relative'>
+        <div className='relative md:flex hidden'>
           <span className='absolute font-bold text-white -translate-x-1/2 text-9xl opacity-5 left-1/2 -z-10'>
             Testimonials
           </span>
         </div>
-        <div className='p-16 mx-auto text-center'>
-          <h1 className='w-2/3 mx-auto text-5xl font-bold leading-tight text-white'>
+        <div className='sm:p-4 md:p-8 lg:p-12 p-4 mx-auto text-center'>
+          <h1 className='md:w-2/3 w-full mx-auto text-5xl font-bold leading-tight text-white'>
             What our Customer about Kreatip
           </h1>
-          <p className='text-[#BCC1D3] w-[47%] mx-auto mt-8'>
+          <p className='text-[#BCC1D3] md:w-[47%] w-full mx-auto mt-8'>
             Some input from clients who have collaborated with us.
           </p>
         </div>
         <div className='flex'>
           <div className='flex flex-row gap-10 mx-auto overflow-clip'>
-            <div className='w-[521px] h-[488px] bg-[#081024] my-auto'>
+            <div className='w-[521px] h-[488px] bg-[#081024] my-auto md:block hidden'>
               <div className='w-full text-center opacity-50 p-14 '>
                 <img
                   className='w-[60px] h-[60px] mx-auto rounded-full'
@@ -51,7 +51,7 @@ const Testimonials = () => {
                 </p>
               </div>
             </div>
-            <div className='w-[521px] h-[488px] bg-[#081024] my-auto'>
+            <div className='w-[521px] h-[488px] bg-[#081024] my-auto md:block hidden'>
               <div className='w-full text-center opacity-50 p-14'>
                 <img
                   className='w-[60px] h-[60px] mx-auto rounded-full '

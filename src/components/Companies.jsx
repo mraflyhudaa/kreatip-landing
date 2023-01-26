@@ -6,8 +6,8 @@ import Vorkasse from '../assets/companies/vorkasse.svg';
 
 const Companies = () => {
   return (
-    <div className='mx-20 px-20 mt-[100px]'>
-      <div className='flex flex-row justify-between bg-[#09122B] py-10 px-28'>
+    <div className='lg:mx-20 md:mx-10 mx-2 lg:px-20 md:px-10 px-2 lg:mt-[100px] md:mt-20 mt-10'>
+      <div className='flex md:flex-row flex-col gap-8 justify-between bg-[#09122B] lg:py-10 py-28 px-28'>
         <img src={Vorkasse} alt='Vorkasse' />
         <img src={Allianz} alt='Allianz' />
         <img src={Asana} alt='Asana' />
